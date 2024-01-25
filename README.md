@@ -1,2 +1,1 @@
-# nativeApp
-checking the connection
+Navigate to WeatherappChallaenge Directory and see Readme there
