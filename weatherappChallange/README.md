@@ -9,11 +9,17 @@ after cloning the repository you have to navigate to weatherappChallange directo
 
 try to install all node modules by running ```npm install``
 
-keep in mind that the project needs minimum node version of ```18.0.0 ```
+IMPORTANT => keep in mind that the project needs minimum node version of ```18.0.0 ```
 
 in order to run the app on ios simulator make sure that you have Xcode installed and open on your machine
 
 then navigate to weatherappChallange/ios directory and run ```npm run ios``` 
+
 Now wait for metro to run and then the app to build
 
-hopefully the project will start without any problem
+hopefully the project will start without any problem, if you encounter any problem feel free to contact me via bita.shamsafar@gmail.com
+
+# Running the test
+for the test jest @testing-library/react-native is used.
+to execute test just run ```npm test```
+
