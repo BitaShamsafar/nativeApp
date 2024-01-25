@@ -7,9 +7,9 @@ to run the project kindly follow the steps written below:
 
 after cloning the repository you have to navigate to weatherappChallange directory.
 
-try to install all node modules by running ```npm install``
+try to install all node modules by running ```npm install```
 
-IMPORTANT => keep in mind that the project needs minimum node version of ```18.0.0 ```
+```IMPORTANT``` keep in mind that the project needs minimum node version of ```18.0.0 ```
 
 in order to run the app on ios simulator make sure that you have Xcode installed and open on your machine
 
