@@ -1,6 +1,7 @@
 import React from 'react';
 import {render, fireEvent} from '@testing-library/react-native';
-import SearchInput from './SearchInput';
+import SearchInput from '../components/SearchInput';
+import {it, describe, jest, expect} from '@jest/globals';
 
 describe('SearchInput', () => {
   it('renders correctly', () => {

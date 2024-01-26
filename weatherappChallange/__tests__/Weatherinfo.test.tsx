@@ -1,6 +1,7 @@
 import React from 'react';
 import {render, waitFor} from '@testing-library/react-native';
-import WeatherInfo from './WeatherInfo';
+import WeatherInfo from '../components/WeatherInfo';
+import {it, describe, jest, expect} from '@jest/globals';
 
 describe('WeatherInfo component', () => {
   it('renders loading message while fetching data', async () => {
