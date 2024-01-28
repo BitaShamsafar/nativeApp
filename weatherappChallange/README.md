@@ -13,9 +13,11 @@ to run the project kindly follow the steps written below:
 
 3. in order to run the app on ios simulator make sure that you have latest Xcode installed and is open on your machine
 
-4. on cmd line navigate to weatherappChallange/ios directory and run ```npm run ios``` 
+4. to run it on iphone, on cmd line navigate to weatherappChallange/ios directory and run ```npm run ios``` 
 
-5. Just wait for metro to run and then the app to build :)
+5. to run it on android device, make sure androidStudio is installed on your machine, on cmd line navigate to weatherappChallange directory and run ```npm run android``` 
+
+6. Just wait for metro to run and then the app to build :)
 
 hopefully the project will start without any problem, if you encounter any problem feel free to contact me via bita.shamsafar@gmail.com
 
